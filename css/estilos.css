@@ -164,7 +164,7 @@ footer .fa-whatsapp{
     border-radius: 50px;
     font-weight: 600;
 }
-#contacto, #inicio{
+#contacto, #inicio, #gracias{
     background-image: url('../images/fondo-contacto.png ');
     background-size: 100%;
     background-repeat: no-repeat;
